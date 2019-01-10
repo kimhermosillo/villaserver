@@ -1,0 +1,22 @@
+{
+  "name": "villadelsolserver",
+  "version": "1.0.0",
+  "description": "back-end to villa del sol",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimhermosillo/villaserver.git"
+  },
+  "author": "Kim Hermosillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimhermosillo/villaserver/issues"
+  },
+  "homepage": "https://github.com/kimhermosillo/villaserver#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
